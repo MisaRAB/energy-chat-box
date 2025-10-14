@@ -1,0 +1,12 @@
+# cache
+app/__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# data
+data/vectors.npy
+data/chunks.json
