@@ -3,7 +3,7 @@
 A lightweight **Retrieval-Augmented Generation (RAG)** system that runs entirely **locally**, using  
 **[Ollama](https://ollama.ai)** for large language models and embeddings, and **Streamlit** for a friendly chat interface.
 
-![Live energy assistant chatbox](images/LLL-RAG.png)
+![Live energy assistant chatbox](images/LLM-RAG.png)
 ---
 
 ## Overview
